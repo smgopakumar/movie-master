@@ -1,0 +1,17 @@
+/* .form-radio .form-check-label { padding-left: 0px;} */
+body { font-size: 14px;}
+.sm-font { font-size: 14px !important; width: 100%;}
+.labl-crless { color:#777;}
+hr { margin-top: 0rem;}
+.paddnone {padding: 0px !important;}
+.red { color: #f00;}
+.btn-info, .editable-container.editable-inline .editableform .control-group .editable-buttons .editable-submit { color: #212529; background-color: #1094f7; border-color: #1094f7;}
+.navbar.navbar-success { background: #09b76b;}
+.bg-grey { background:#f2f2f2; padding: 10px;}
+.h5, h5 { font-size: 14px;}
+.col-12 { margin-bottom: 20px;}
+.pull-right { float: right;}
+.img-responsive { max-width: 100%; display: block;}
+.form-radio.tbradio { margin-top: 0px; margin-bottom: 0px;}
+.form-group.tablegr { margin-bottom: 0rem;}
+.table.roomtable td { vertical-align: text-bottom;}
